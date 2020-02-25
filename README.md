@@ -23,6 +23,12 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
 
 <hr>
 
+## Information resources
+
+* [NealeLab GWAS statistics](http://www.nealelab.is/uk-biobank) -- GWAS on latest UK Biobank data release using 4,203 phenotypes.
+   * :octocat: https://github.com/Nealelab/UK_Biobank_GWAS
+   * :floppy_disk: [Results](https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit?ts=5b5f17db#gid=227859291)
+
 ## Ops
 
 * [Docker utils](https://github.com/spiros/docker-ukbiobank-utils) - Docker image for UK Biobank utilities: ukbunpack, ukbfetch, ukblink, ukbgene, ukbmd5, ukbconv 
