@@ -29,6 +29,10 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
    * :octocat: https://github.com/Nealelab/UK_Biobank_GWAS
    * :floppy_disk: [Results](https://docs.google.com/spreadsheets/d/1kvPoupSzsSFBNSztMzl04xMoSC3Kcx3CrjVf4yBmESU/edit?ts=5b5f17db#gid=227859291)
 
+## Phenotypes
+
+* [Primary care EHR biomarkers](https://github.com/spiros/ukb-biomarker-phenotypes) -- machine-readable versions (CSV files) of electronic health record phenotyping algorithms for 31 commonly-measured biomakers.
+
 ## Ops
 
 * [Docker utils](https://github.com/spiros/docker-ukbiobank-utils) - Docker image for UK Biobank utilities: ukbunpack, ukbfetch, ukblink, ukbgene, ukbmd5, ukbconv 
