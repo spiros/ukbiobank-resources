@@ -38,7 +38,7 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
 ## Other resources
 
 * [WikiMedMap](https://github.com/Linasulieman/WikiMedMap) mapping of phenotype strings from questionnaires in the UK Biobank and from Mendelian diseases in Online Mendelian Inheritance in Man (OMIM) database to eight vocabularies: International Classification of Diseases, Ninth Revision (ICD-9), ICD-10, ICD-O, Medical Subject Headings (MeSH), OMIM, Disease Database, and MedlinePlus. 
-    * 📝 [Sulieman L. et al. bioRxiv. 2019](https://www.biorxiv.org/content/10.1101/727792v1]
+    * 📝 [Sulieman L. et al. bioRxiv. 2019](https://www.biorxiv.org/content/10.1101/727792v1)
 
 * [ukbb-srmed](https://github.com/PhilAppleby/ukbb-srmed) mapping of self-reported medication entries to the Anatomical Therapeutic Chemical (ATC) classification system and in the British National Formulary (BNF) coding systems.
  
