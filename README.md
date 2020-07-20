@@ -20,6 +20,8 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
     * 📝 [Millard L. et al. Int J Epidem. 2019](https://www.biorxiv.org/content/10.1101/111500v1)
 * [ukbrest](https://github.com/hakyimlab/ukbrest) -  Efficient and streamlined data access for reproducible research of large biobanks
     * 📝 [Pividori M and Kyung H, Bioinf. 2019](https://academic.oup.com/bioinformatics/article/35/11/1971/5161083)
+* [ukbb_parser](https://github.com/nadavbra/ukbb_parser) - Python tool to extract datasets
+   * :octocat: https://github.com/nadavbra/ukbb_parser
 
 <hr>
 
