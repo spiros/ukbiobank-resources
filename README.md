@@ -23,6 +23,9 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
 * [ukbb_parser](https://github.com/nadavbra/ukbb_parser) - Python tool to extract datasets
    * :octocat: https://github.com/nadavbra/ukbb_parser
 
+* [NETMAGE](https://www.biorxiv.org/content/10.1101/2020.10.27.357103v1.full) - NETMAGE: a humaN-disEase phenoType MAp GEnerator for the Visualization of PheWAS
+   * :octocat: https://github.com/dokyoonkimlab/netmage
+
 <hr>
 
 ## Information resources
