@@ -12,6 +12,7 @@ A curated list for preprocessing, cleaning, mapping and analyzing UK Biobank dat
 * [FUNPACK](https://git.fmrib.ox.ac.uk/fsl/funpack/) - Python library for pre-processing of UK BioBank data.
 * [phemap](https://github.com/spiros/phemap) - Python functions to map between ICD-10 terms and PheCodes.
 * [ukb_download_and_prep_template](https://github.com/activityMonitoring/ukb_download_and_prep_template) - Template for common processing operations
+* [ukbiobank-loaders](https://github.com/BenevolentAI/ukbiobank-loaders) - a collection of Python tools to load data into Apache Parquet files developed by [BenevolentAI](https://www.benevolent.com/)
 <hr>
 
 ## Analytical tools
